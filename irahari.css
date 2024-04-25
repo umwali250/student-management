@@ -1,0 +1,21 @@
+*{
+    background-color: lightblue;
+}
+.btn {
+    width: 200px;
+    height: 30px;
+    margin: 10px;
+    padding: 10p;
+    background-color: green;
+    border-radius: 10px;
+    color:white;
+    border: 1px solid green;
+}
+    .class{
+        width: 200px;
+        height: 30px;
+        margin: 10px;
+        padding: 10px;
+        color: white;
+        border: 1px solid green;
+    }
